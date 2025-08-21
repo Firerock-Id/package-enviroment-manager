@@ -8,5 +8,12 @@
     "name": "januar elsan",
     "email": "januar@firerock.id",
     "url": "https://januarelsan.com"
-  }  
+  },
+  "samples": [
+    {
+      "displayName": "Environment SO Files Sample",
+      "description": "Contains a sample for EnvManager, and three SO files for each environment (Development, Staging, Production).",
+      "path": "Samples~/SOFiles"
+    }
+  ]
 }
