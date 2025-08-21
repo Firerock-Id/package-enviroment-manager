@@ -10,8 +10,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 8a0383991d0e66f499e2d5425505b091, type: 3}
-  m_Name: Env_Staging
+  m_Name: Env_Development_Sample
   m_EditorClassIdentifier: 
-  EnvTypeEnum: 1
+  EnvType: 0
   BaseURL: 
   EnableDebugConsole: 1

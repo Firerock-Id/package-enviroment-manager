@@ -10,6 +10,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: ef90cda2be04d144782de2402565a0f7, type: 3}
-  m_Name: EnvManagerSO
+  m_Name: EnvManagerSO_Sample
   m_EditorClassIdentifier: 
   EnvSO: {fileID: 11400000, guid: 345115819d155ec4ebf1b404cd00fb05, type: 2}
