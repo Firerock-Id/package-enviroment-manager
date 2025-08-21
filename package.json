@@ -1,0 +1,12 @@
+{
+  "name": "com.forgehub.env-manager",
+  "displayName": "ForgeHub Environment Manager",
+  "version": "1.0.0",
+  "description": "A Package for managing and customizing game server environments. Like base url, enabling/disabling logging, and more. It has 3 environments: Development, Staging, and Production.",
+  "hideInEditor": false,
+  "author": {
+    "name": "januar elsan",
+    "email": "januar@firerock.id",
+    "url": "januarelsan.com"
+  }  
+}
