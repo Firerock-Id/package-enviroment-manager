@@ -15,5 +15,10 @@ namespace Forgehub.Enviroment
             EnvTypeEnum.Production => "PRD",
             _ => "Unknown"
         };
+
+        public string AccessToken;
+        public string TokenType;
+        public string Expiry;
+
     }
 }
