@@ -20,7 +20,7 @@ namespace Forgehub.Enviroment
         public Dictionary<string, Token> Tokens = new Dictionary<string, Token>();
     }
 
-    public class Token() 
+    public class Token
     { 
         public string Value;
         public DateTime Expiry;
