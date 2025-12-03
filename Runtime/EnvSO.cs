@@ -1,4 +1,5 @@
 using UnityEngine;
+using System;
 
 namespace Forgehub.Enviroment
 {
@@ -16,9 +17,12 @@ namespace Forgehub.Enviroment
             _ => "Unknown"
         };
 
-        public string AccessToken;
-        public string TokenType;
-        public string Expiry;
+        public Dictionary<string, Token> Tokens = new Dictionary<string, Token>();
+    }
 
+    public class Token() 
+    { 
+        public string Value;
+        public DateTime Expiry;
     }
 }
